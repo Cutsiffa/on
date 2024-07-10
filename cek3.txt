@@ -1,0 +1,830 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Blippi ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567062
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Paw Patrol ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567063
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Pj Masks ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567064
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Masha&Bear ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567065
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Mickey Mouse ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567066
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Peppa Pig ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567067
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Tom&Jerry ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567068
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Bloopies ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567069
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids SpongeBob ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567070
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Pets ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567071
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Spidey ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567072
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Oddbods ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567073
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Larva ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567074
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Grizzy ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567075
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Bob The Builder ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567076
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids BabyShark ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567077
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids CloudBabies ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567078
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Cocomelon ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567079
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids BabyTV ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567080
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Boss-Baby ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567081
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids MightyLittleBheem ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567082
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Sonic ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567083
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Little Pony ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567084
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Shaun The Sheep ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567085
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Garfield Show ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567086
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Zig Sharko ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567087
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Oggy ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567088
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids CuriousGeorge ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567089
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Pucca ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567090
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Pink Panther ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567091
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Fireman Sam ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567092
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Alvinn Chipmunks ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567093
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Angry Birds ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567094
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids AngryBirds Blue ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567095
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids SuperWings ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567096
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids CupHeadShow ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567097
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids GoDogGo ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567098
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids SharkDog ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567099
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Bluey ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567100
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Gecko's Garage ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567101
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids MrBean ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567102
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Omar&Hana ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567103
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Prophet Stories ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567104
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS+",Kids Wolfo ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567105
+
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566952
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566953
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 3 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566954
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 4 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566955
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 5 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566956
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 6 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566957
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 7 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566958
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 8 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566959
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 9 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566960
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 10 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566961
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 11 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566962
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="ANIME TEMPORARY",Anime 12 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566963
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Extra ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567143
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay BestOff ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567144
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Action ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567145
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Action+1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567146
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Comedy ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567147
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Thriller ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567148
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Horror ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567149
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Warzone ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567150
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Family ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567151
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Romance ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567152
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Fantasy ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567153
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Marvel 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567158
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay Marvel 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567159
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - 007 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567160
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - 007classic ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567161
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Avengers ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567162
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Fast&Furious ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567163
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - FinalDestination ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567164
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - HarryPotter ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567165
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - MissionImpossible ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567166
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - PiratesCaribbean ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567167
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Saw ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567168
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Transformers ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567169
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Planet of Apes ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567170
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Scream ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567171
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Star Wars ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567172
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - The Twilight ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567173
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Ocean's ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567174
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - The Expendables ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567175
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - SpiderMan ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567176
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - Rambo ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567177
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",OnePlay - The Dark Knight ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567178
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567009
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567010
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 3 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567011
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 4 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567012
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 5 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567013
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 6 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567014
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 7 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567015
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 8 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567016
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 9 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567017
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",HBOMax Original 10 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567018
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567181
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567180
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 3 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567182
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 4 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567183
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 5 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567184
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 6 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567185
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 7 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567186
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 8 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567187
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 9 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567188
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Paramount+ Original 10 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567189
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567028
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567027
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 3 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567029
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 4 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567030
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 5 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567031
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 6 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567032
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 7 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567033
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 8 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567034
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 9 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567035
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",hulu Originals 10 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567036
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567234
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567233
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 3 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567235
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 4 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567236
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 5 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567237
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 6 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567238
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 7 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567239
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 8 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567240
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 9 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567241
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 10 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567242
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 11 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567243
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Sky Store Premiere 12 ᴴᴰ
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566998
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566999
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 3 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567000
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 4 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567001
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 5 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567002
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 6 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567003
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 7 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567004
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 8 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567005
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 9 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567006
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpgm" group-title="FILMEXTRA",Disney+ Series 10 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/567007
+
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 1 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566942
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 2 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566943
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 3 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566944
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 4 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566945
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 5 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566946
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 6 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566947
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 7 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566948
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 8 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566949
+#EXTINF:-1 tvg-logo=https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg" group-title="FILMEXTRA",Amc+ Original 9 ᴴᴰ
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/566950
+
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",UEFA EURO 2024
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647756
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 2
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647765
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 3
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647766
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 3
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647767
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 4
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647768
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 5
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647769
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 6
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647770
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 7
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647771
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 8
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647772
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 9
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647773
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 10
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647774
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 11
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647775
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY",EURO 12
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647776
+
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 01: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643526
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 02: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643527
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 03: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643528
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 04: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643529
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 05: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643530
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 06: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643531
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 07: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643532
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 08: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643533
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 09: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643534
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 10: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643535
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 11: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643536
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 12: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643537
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 13: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643538
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 14: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643539
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 15: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643540
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 16: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643541
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 17: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643542
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 18: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643543
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 19: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643544
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 20: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643545
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 21: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643546
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 22: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643547
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 23: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643548
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 24: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643549
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 25: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643550
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 26: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643551
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 27: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643552
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 28: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643553
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 29: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643554
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 30: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643555
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 31: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643556
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 32: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643557
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 33: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643558
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 34: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643559
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 35: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643560
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 36: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643561
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 37: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643562
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 38: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643563
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 39: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643564
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 40: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643565
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 41: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643566
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 42: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643567
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 43: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643568
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 44: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643569
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 45: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643570
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 46: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643571
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 47: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643572
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 48: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643573
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 49: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643574
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 50: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643575
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 51: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643576
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 52: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643577
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 53: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643578
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 54: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643579
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 55: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643580
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 56: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643581
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 57: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643582
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 58: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643583
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 59: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643584
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 60: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643585
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 61: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643586
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 62: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643587
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 63: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643588
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 64: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643589
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 65: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643590
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 65: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643590
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 66: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643591
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 67: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643592
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 68: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643593
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 69: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643594
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 70: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643595
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 71: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643596
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 72: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643597
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 73: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643598
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 74: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643599
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 75: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643600
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 76: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643601
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 77: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643602
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 78: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643603
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 79: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643604
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 80: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643605
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 81: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643606
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 82: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643607
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 83: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643608
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 84: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643609
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 85: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643610
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 86: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643611
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 87: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643612
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 88: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643613
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 89: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643614
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 90: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643615
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 91: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643616
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 92: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643617
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 93: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643618
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 94: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643619
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 95: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643620
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 96: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643621
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 97: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643622
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 98: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643623
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY2",Event 99: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/643624
+
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: ADELAIDE UNITED
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557294
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: BRISBANE ROAR
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557295
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: CENTRAL COAST MARINERS
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557296
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: MACARTHUR FC
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557297
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: MELBOURNE CITY
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557298
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: MELBOURNE VICTORY
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557299
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: NEWCASTLE JETS
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557300
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: PERTH GLORY
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557301
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: SYDNEY FC
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557302
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: WELLINGTON PHOENIX
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557303
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: WESTERN SYDNEY WANDERERS
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557304
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",A-LEAGUE: WESTERN UNITED
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/557305
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU | A-League 01: Central Coast Mariners FC v Melbourne Victory FC | Sat 25th May 10:45AM UK
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/640604
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU | A-League 02: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/640605
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU | A-League 03: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/640606
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU | A-League 04: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/640607
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU | A-League 05: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/640608
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU | A-League 06: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/640609
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU | A-League 07: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/640610
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Eurosport 1
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647618
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Eurosport 2
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647619
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Europsort XTRA 1
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647620
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Europsort XTRA 2
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647621
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Europsort XTRA 3
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647622
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Europsort XTRA 4
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647623
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Europsort XTRA 5
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647624
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 1
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647625
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 2
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647626
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 3
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647627
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 4
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647628
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 5
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647629
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 6
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647630
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 7
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647631
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 8
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647632
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 9
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647633
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 10
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647634
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 11
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647635
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 12
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647636
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",Amazon UK Event 13
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/647637
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU: Fox Sports 501
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609347
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU: Fox Sports 502
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609348
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU: Fox Sports 503
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609349
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU: Fox Sports 504
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609350
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU: Fox Sports 505
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609351
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU: Fox Sports 506
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609352
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY3",AU: Fox Sports 507
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609353
+
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 01: Norway, Eliteserien | Sandefjord vs. HamKam | Thursday, 27 June 2024 18:00
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645552
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 02: Norway, Eliteserien | Lillestrøm vs. KFUM Oslo | Thursday, 27 June 2024 20:15
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645553
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 03: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645554
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 04: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645555
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 05: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645556
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 06: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645557
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 07: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645558
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 08: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645559
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 09: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645560
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 10: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645561
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 11: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645562
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 12: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645563
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 13: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645564
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 14: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645565
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 15: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645566
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 16: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645567
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 17: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645568
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 18: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645569
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 19: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645570
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 20: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645571
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 21: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645572
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 22: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645573
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 23: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645574
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 24: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645575
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 25: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645576
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 26: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645577
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 27: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645578
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 28: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645579
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 29: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645580
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 30: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645581
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 31: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645582
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 32: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645583
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 33: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645584
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 34: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645585
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 35: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645586
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 36: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645587
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 37: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645588
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 38: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645589
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 39: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645590
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 40: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645591
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 41: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645592
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 42: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645593
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 43: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645594
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 44: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645595
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 45: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645596
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 46: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645597
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 47: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645598
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 48: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645599
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 49: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645600
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY 4",Football Event 50: No Scheduled Event
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645601
+
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 1
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118277
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 2
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118278
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 3
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118279
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 4
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118280
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 5
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118281
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 6
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118282
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 7
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118283
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 8
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118284
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 9
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118285
+#EXTINF:-1 tvg-logo"mmmm" group-title="LIVEONLY5",NZ Spark Sports Event 10
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/118286
+
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 01
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612774
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 02
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612775
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 03
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612776
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 04
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612777
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 05
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612778
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 06
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612779
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 07
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612780
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 08
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612781
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 09
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612782
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 10
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612783
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 11
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612784
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 12
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612785
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 13
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612786
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 14
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612787
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 15
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612788
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 16
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612789
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 17
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612790
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 18
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612791
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 19
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612792
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 20
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612793
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 21
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612794
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 22
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612795
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 23
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612796
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 24
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612797
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 25
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612798
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 26
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612799
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 27
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612800
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 28
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612801
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 29
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612802
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 30
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612803
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 31
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612804
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 32
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612805
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 33
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612806
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 34
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612807
+#EXTINF:-1 tvg-logo"mmmm" group-title="VIDEVEN",Vidio: Live Events 35
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/612808
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title=" LIVE EVENT ",Live 4 indosiar lancar
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title=" LIVE EVENT ",Live 4 indosiar lancar 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/dirga/dirga/3517
+
