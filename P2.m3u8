@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:1,
-http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/298550.ts
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17516_720p/hdntl=exp=1721915726~acl=%2f*~id=69578335~data=hdntl~hmac=43541df168c2f444e7426bec07d599e14e342aaf462a897927414d5c69ddb1fd/index.m3u8
