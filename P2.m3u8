@@ -1,7 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
