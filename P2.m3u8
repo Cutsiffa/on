@@ -1,9 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722010472~acl=/drm/dash/*~id=164396008~hmac=60b7a81608e7c9d154f6e29d0447d917564071ae7864515fb260bad74f580044
+http://013tv.com:8080/AmirBilali/76448035/298550
