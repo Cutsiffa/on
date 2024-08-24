@@ -4,4 +4,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://013tv.com:8080/AmirBilali/76448035/162138
+https://thedream.biz.id/live/endosiar.m3u8
+
+#http://013tv.com:8080/AmirBilali/76448035/162138
