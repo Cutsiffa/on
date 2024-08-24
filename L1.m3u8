@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 #EXTINF:1,
 https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/304
 
+##EXTVLCOPT:http-reconnect=true
 #http://xtv.ooo:8080/321166661/52816191/350972
