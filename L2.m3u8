@@ -4,4 +4,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298550.ts
+http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
+
+#http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298550.ts
