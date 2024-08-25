@@ -1,6 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF-1,
-https://bf.shandongjnkt.com/live/322665_hd01.m3u8?txSecret=81979a678addb63c6cd5aa1a3fff6746&txTime=66cb1b2c
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
+https://bf.shandongjnkt.com/live/322655_hd01.m3u8?txSecret=b496c8e529774ab01e19620e15e717a0&txTime=66cb1ae7
+
 #http://xtv.ooo:8080/321166661/52816191/350972
