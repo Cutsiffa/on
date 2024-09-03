@@ -4,5 +4,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MAP:URI="fileSequence0.mp4"
-https://mantul.biz.id:443/movie/IPTV1/123456/21787.mp4
+#EXT-X-MAP:URI="https://mantul.biz.id:443/movie/IPTV1/123456/21787.mp4"
