@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-https://mantul.biz.id:443/inetwork/gayanet12/60.ts
-https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
+#EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
+https://nabeeopnwa.store/live/11/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=280000,RESOLUTION=854x480
+https://nabeeopnwa.store/live/11/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=192000,RESOLUTION=640x360
+https://nabeeopnwa.store/live/11/chunks.m3u8
